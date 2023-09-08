@@ -29,7 +29,8 @@ public class CompaniesTest extends BaseClass {
 	}
 
 	@Test(priority = 1)
-	public void enterLoginData() throws InterruptedException {
+	public void enterLoginData() throws Exception {
+		Logger.info("URL is opened");
 		Logger.info("username is entered");
 		lp.enterUsername(prop.getProperty("username"));
 		Logger.info("password is entered");
@@ -37,6 +38,14 @@ public class CompaniesTest extends BaseClass {
 		Thread.sleep(3000);
 		Logger.info("click on login button");
 		lp.clickOnLogin();
+		if (driver.getTitle().equals("CRMPRO")) {
+			Assert.assertTrue(true);
+			Logger.info("Login test passed");
+		} else {
+			captureScreen(driver, "loginTest");
+			Assert.assertTrue(false);
+			Logger.info("Login test failed");
+		}
 	}
 
 	@Test(priority = 2)
