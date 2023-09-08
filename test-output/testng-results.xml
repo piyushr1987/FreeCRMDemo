@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48659" started-at="2023-09-08T15:35:47Z" finished-at="2023-09-08T15:36:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48659" started-at="2023-09-08T15:35:47Z" finished-at="2023-09-08T15:36:36Z">
+      <class name="tests.CompaniesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.CompaniesTest@6e0e048a]" name="setUp" is-config="true" duration-ms="13340" started-at="2023-09-08T15:35:47Z" finished-at="2023-09-08T15:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterLoginData()[pri:1, instance:tests.CompaniesTest@6e0e048a]" name="enterLoginData" duration-ms="20683" started-at="2023-09-08T15:36:01Z" finished-at="2023-09-08T15:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLoginData -->
+        <test-method status="PASS" signature="testMoveToCompanies()[pri:2, instance:tests.CompaniesTest@6e0e048a]" name="testMoveToCompanies" duration-ms="8010" started-at="2023-09-08T15:36:21Z" finished-at="2023-09-08T15:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveToCompanies -->
+        <test-method status="PASS" signature="testCompanyDetails()[pri:3, instance:tests.CompaniesTest@6e0e048a]" name="testCompanyDetails" duration-ms="6416" started-at="2023-09-08T15:36:29Z" finished-at="2023-09-08T15:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyDetails -->
+        <test-method status="PASS" signature="testCompanyName()[pri:4, instance:tests.CompaniesTest@6e0e048a]" name="testCompanyName" duration-ms="48" started-at="2023-09-08T15:36:36Z" finished-at="2023-09-08T15:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.CompaniesTest@6e0e048a]" name="tearDown" is-config="true" duration-ms="144" started-at="2023-09-08T15:36:36Z" finished-at="2023-09-08T15:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CompaniesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+2023-09-08 21:06:01,266 [main] INFO FreeCRM - username is entered
+2023-09-08 21:06:01,352 [main] INFO FreeCRM - password is entered
+2023-09-08 21:06:04,422 [main] INFO FreeCRM - click on login button
+2023-09-08 21:06:22,006 [main] INFO FreeCRM - mouse hover to the companies
+2023-09-08 21:06:29,961 [main] INFO FreeCRM - Enter the companies details
+2023-09-08 21:06:36,377 [main] INFO FreeCRM - verify the entered company name is present or not
