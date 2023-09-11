@@ -19,3 +19,19 @@
 2023-09-08 22:10:31,944 [main] INFO FreeCRM - mouse hover to the companies
 2023-09-08 22:10:41,546 [main] INFO FreeCRM - Enter the companies details
 2023-09-08 22:10:49,864 [main] INFO FreeCRM - verify the entered company name is present or not
+2023-09-11 17:54:54,795 [main] INFO FreeCRM - URL is opened
+2023-09-11 17:54:54,800 [main] INFO FreeCRM - username is entered
+2023-09-11 17:54:54,884 [main] INFO FreeCRM - password is entered
+2023-09-11 17:54:57,954 [main] INFO FreeCRM - click on login button
+2023-09-11 17:55:17,988 [main] INFO FreeCRM - Login test passed
+2023-09-11 17:55:18,050 [main] INFO FreeCRM - mouse hover to the companies
+2023-09-11 17:55:27,742 [main] INFO FreeCRM - Enter the companies details
+2023-09-11 17:55:37,153 [main] INFO FreeCRM - verify the entered contact name is present or not
+2023-09-11 18:00:11,723 [main] INFO FreeCRM - URL is opened
+2023-09-11 18:00:11,730 [main] INFO FreeCRM - username is entered
+2023-09-11 18:00:11,816 [main] INFO FreeCRM - password is entered
+2023-09-11 18:00:14,881 [main] INFO FreeCRM - click on login button
+2023-09-11 18:00:26,621 [main] INFO FreeCRM - Login test passed
+2023-09-11 18:00:26,672 [main] INFO FreeCRM - mouse hover to the companies
+2023-09-11 18:00:39,542 [main] INFO FreeCRM - Enter the companies details
+2023-09-11 18:00:48,516 [main] INFO FreeCRM - verify the entered contact name label is present or not
