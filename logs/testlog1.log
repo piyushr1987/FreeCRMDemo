@@ -35,3 +35,19 @@
 2023-09-11 18:00:26,672 [main] INFO FreeCRM - mouse hover to the companies
 2023-09-11 18:00:39,542 [main] INFO FreeCRM - Enter the companies details
 2023-09-11 18:00:48,516 [main] INFO FreeCRM - verify the entered contact name label is present or not
+2023-09-12 18:10:36,677 [main] INFO FreeCRM - URL is opened
+2023-09-12 18:10:36,691 [main] INFO FreeCRM - username is entered
+2023-09-12 18:10:36,792 [main] INFO FreeCRM - password is entered
+2023-09-12 18:10:39,911 [main] INFO FreeCRM - click on login button
+2023-09-12 18:10:57,268 [main] INFO FreeCRM - Login test passed
+2023-09-12 18:10:57,320 [main] INFO FreeCRM - mouse hover to the Deals
+2023-09-12 18:11:06,756 [main] INFO FreeCRM - Enter the details in new deal
+2023-09-12 18:11:07,760 [main] INFO FreeCRM - verify the entered owner name label is present or not
+2023-09-12 18:12:38,318 [main] INFO FreeCRM - URL is opened
+2023-09-12 18:12:38,323 [main] INFO FreeCRM - username is entered
+2023-09-12 18:12:38,422 [main] INFO FreeCRM - password is entered
+2023-09-12 18:12:41,496 [main] INFO FreeCRM - click on login button
+2023-09-12 18:12:55,279 [main] INFO FreeCRM - Login test passed
+2023-09-12 18:12:55,345 [main] INFO FreeCRM - mouse hover to the Deals
+2023-09-12 18:13:06,658 [main] INFO FreeCRM - Enter the details in new deal
+2023-09-12 18:13:11,454 [main] INFO FreeCRM - verify the entered owner name label is present or not

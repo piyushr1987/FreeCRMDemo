@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="51184" started-at="2023-09-11T12:29:57Z" finished-at="2023-09-11T12:30:48Z">
+  <suite name="Default suite" duration-ms="47359" started-at="2023-09-12T12:42:24Z" finished-at="2023-09-12T12:43:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="51184" started-at="2023-09-11T12:29:57Z" finished-at="2023-09-11T12:30:48Z">
-      <class name="tests.ContactsTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.ContactsTest@6e0e048a]" name="setUp" is-config="true" duration-ms="14205" started-at="2023-09-11T12:29:57Z" finished-at="2023-09-11T12:30:11Z">
+    <test name="Default test" duration-ms="47359" started-at="2023-09-12T12:42:24Z" finished-at="2023-09-12T12:43:11Z">
+      <class name="tests.DealsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.DealsTest@6e0e048a]" name="setUp" is-config="true" duration-ms="13959" started-at="2023-09-12T12:42:24Z" finished-at="2023-09-12T12:42:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="enterLoginData()[pri:1, instance:tests.ContactsTest@6e0e048a]" name="enterLoginData" duration-ms="14903" started-at="2023-09-11T12:30:11Z" finished-at="2023-09-11T12:30:26Z">
+        <test-method status="PASS" signature="enterLoginData()[pri:1, instance:tests.DealsTest@6e0e048a]" name="enterLoginData" duration-ms="16969" started-at="2023-09-12T12:42:38Z" finished-at="2023-09-12T12:42:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterLoginData -->
-        <test-method status="PASS" signature="testMoveToCompanies()[pri:2, instance:tests.ContactsTest@6e0e048a]" name="testMoveToCompanies" duration-ms="12917" started-at="2023-09-11T12:30:26Z" finished-at="2023-09-11T12:30:39Z">
+        <test-method status="PASS" signature="testMoveToDeals()[pri:2, instance:tests.DealsTest@6e0e048a]" name="testMoveToDeals" duration-ms="11369" started-at="2023-09-12T12:42:55Z" finished-at="2023-09-12T12:43:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMoveToCompanies -->
-        <test-method status="PASS" signature="testContactsDetails()[pri:3, instance:tests.ContactsTest@6e0e048a]" name="testContactsDetails" duration-ms="8972" started-at="2023-09-11T12:30:39Z" finished-at="2023-09-11T12:30:48Z">
+        </test-method> <!-- testMoveToDeals -->
+        <test-method status="PASS" signature="testNewDeal()[pri:3, instance:tests.DealsTest@6e0e048a]" name="testNewDeal" duration-ms="4796" started-at="2023-09-12T12:43:06Z" finished-at="2023-09-12T12:43:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testContactsDetails -->
-        <test-method status="PASS" signature="testContactName()[pri:4, instance:tests.ContactsTest@6e0e048a]" name="testContactName" duration-ms="45" started-at="2023-09-11T12:30:48Z" finished-at="2023-09-11T12:30:48Z">
+        </test-method> <!-- testNewDeal -->
+        <test-method status="PASS" signature="testContactName()[pri:4, instance:tests.DealsTest@6e0e048a]" name="testContactName" duration-ms="66" started-at="2023-09-12T12:43:11Z" finished-at="2023-09-12T12:43:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testContactName -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.ContactsTest@6e0e048a]" name="tearDown" is-config="true" duration-ms="123" started-at="2023-09-11T12:30:48Z" finished-at="2023-09-11T12:30:48Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.DealsTest@6e0e048a]" name="tearDown" is-config="true" duration-ms="163" started-at="2023-09-12T12:43:11Z" finished-at="2023-09-12T12:43:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- tests.ContactsTest -->
+      </class> <!-- tests.DealsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
